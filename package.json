@@ -1,6 +1,6 @@
 {
     "name": "bonana",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "main": "bonana.js",
     "description": "太陽花好吃嗎？問秋意。",
     "homepage": "https://github.com/easy-node/bonana",

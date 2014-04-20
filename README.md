@@ -1,4 +1,4 @@
-# bonana [![Build Status](https://secure.travis-ci.org/huei90/bonana.png?branch=master)](http://travis-ci.org/huei90/bonana)
+# bonana
 
 太陽花好吃嗎？問秋意。
 

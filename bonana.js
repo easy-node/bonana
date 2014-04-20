@@ -55,7 +55,3 @@ module.exports = function () {
 "\n";
     return string;
 };
-
-
-var a = module.exports();
-console.log(a)
