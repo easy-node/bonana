@@ -1,0 +1,37 @@
+{
+    "name": "bonana",
+    "version": "0.1.0",
+    "main": "bonana.js",
+    "description": "太陽花好吃嗎？問秋意。",
+    "homepage": "https://github.com/easy-node/bonana",
+    "bugs": "https://github.com/easy-node/bonana/issues",
+    "author": {
+        "name": "",
+        "email": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/easy-node/bonana"
+    },
+    "licenses": [
+        {
+            "type": "4am.tw"
+        }
+    ],
+    "keywords": [
+        "banana",
+        "4am",
+        "bonana"
+    ],
+    "devDependencies": {
+        "grunt-contrib-jshint": "~0.7.0",
+        "grunt-contrib-nodeunit": "~0.2.0",
+        "grunt-contrib-watch": "~0.5.0",
+        "load-grunt-tasks": "~0.2.0",
+        "time-grunt": "~0.2.0",
+        "jshint-stylish": "~0.1.3"
+    },
+    "scripts": {
+        "test": "grunt"
+    }
+}
